@@ -2,4 +2,5 @@ Welcome to Python programming
  python is dynamic programming
    
     modular programming
- 
+    python is interprater it will check line by line
+    
